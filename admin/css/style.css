@@ -1,0 +1,30 @@
+/*
+Admin css
+*/
+
+#wp_share_button_sites tr:hover .sorting {
+  background: rgba(0, 0, 0, 0) url("images/move.png") no-repeat scroll 18px 12px;
+}
+
+#wp_share_button_sites tr .remove {
+  background: rgb(255, 102, 102) none repeat scroll 0 0;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 2px 7px;
+}
+
+#wp_share_button_sites tr .no-remove {
+  background: rgb(206, 206, 206) none repeat scroll 0 0;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 2px 7px;
+}
+
+
+
+
+
+
+
+
+
